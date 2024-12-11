@@ -1,1 +1,2 @@
-adir:2222
+adir:{'id': 1, 'password': '1111', 'full_name': 'Adir ali', 'email': 'adir.ixr@gmail.com', 'phone': '01837730317'}
+ali:{'id': 2, 'password': '1111', 'full_name': 'xyz', 'email': 'xyz@gmail.com', 'phone': '01931312321321'}
